@@ -1025,3 +1025,4 @@ else:
     main_app()
 
 st.markdown('<div class="footer">MADE IN INDIA 🇮🇳 WP+918572877828</div>', unsafe_allow_html=True)
+
